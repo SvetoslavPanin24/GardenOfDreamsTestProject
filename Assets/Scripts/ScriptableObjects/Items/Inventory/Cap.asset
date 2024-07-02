@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 544e72cf67653a746acf34ef742f646d, type: 3}
+  m_Name: Cap
+  m_EditorClassIdentifier: 
+  itemType: 1
+  icon: {fileID: 21300000, guid: 5a8d649379a861b4fb8be86a1694f6db, type: 3}
+  itemName: "\u041A\u0435\u043F\u043A\u0430"
+  maximumAmount: 1
+  weigh: 0.1
+  armorType: 1
+  protectionAmount: 3
